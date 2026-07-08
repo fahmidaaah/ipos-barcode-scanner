@@ -78,9 +78,11 @@ Actual barcode label printed successfully using the Bluetooth thermal printer.
 ![Real Printer Output](Real%20printer%20output%20photo.jpeg)
 
 
-## Author
+## 👩‍💻 Author
 
 **Fathima Fahmida TP**
 
-- LinkedIn: https://www.linkedin.com/in/fathimafahmida
-- GitHub: https://github.com/fahmidaaah
+Flutter Developer | BSc Computer Science
+
+- GitHub: @fahmidaaah
+- LinkedIn: linkedin.com/in/fathimafahmida
