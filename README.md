@@ -76,3 +76,11 @@ Preview the barcode label, choose the number of copies, and print using a Blueto
 Actual barcode label printed successfully using the Bluetooth thermal printer.
 
 ![Real Printer Output](Real%20printer%20output%20photo.jpeg)
+
+
+## Author
+
+**Fathima Fahmida TP**
+
+- LinkedIn: https://www.linkedin.com/in/fathimafahmida
+- GitHub: https://github.com/fahmidaaah
